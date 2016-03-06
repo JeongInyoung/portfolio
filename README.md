@@ -1,5 +1,6 @@
 # Inyoung's Portfolio
 
+![감성적인 UI, UX Designer Portfolio 정인영](images/portfolio.jpg)
 
 #### 1. LOST112 경찰청 유실물 종합안내 (대민,관리자,모바일사이트 3건)
 - 기간 : 2013년 10월 ~ 2013년 12월 (3개월)
